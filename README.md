@@ -9,7 +9,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 ## Education
 
 - **Current Studies**:   
-  - *Software engineering* at [Hive Helsinki](https://www.hive.fi/en/)   
+  - *Software developement* at [Hive Helsinki](https://www.hive.fi/en/)   
   - Languages and techonogies: *C, C++, Unix, Shell, Git, Web development*   
   - Focus: *Basics of software engineering, problem-solving, learning to learn, teamwork*   
   - Education language: English   
