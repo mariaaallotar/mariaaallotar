@@ -4,9 +4,9 @@
 
 <img align="center" src="https://github.com/user-attachments/assets/2dbcbbbe-4d8f-4ee6-81e4-be1f7e117f2f" width="97%" /><br>   
 
-# I'm **Maria**, a programming student at [Hive Helsinki](https://www.hive.fi/en/).
+# I'm Maria, a programming student at [Hive Helsinki](https://www.hive.fi/en/)
 
-I have a **unique** combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
+I have a *unique* combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
 
 
 <details>
@@ -16,7 +16,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 
 ---
 
-## 💡 Education
+## Education
 
 #### Current Studies   
 
@@ -42,7 +42,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 ---
 
 
-## 💻  IT Knowledge Base   
+## IT Knowledge Base   
 
 <img align="right" style="position: absolute; z-index: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaallotar&theme=dark&layout=compact&langs_count=5" />  
 Here’s a snapshot of my current skill set and tools I’m comfortable with:
@@ -55,13 +55,13 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
 ---
 
-## 🔋  Experience
+## Experience
 
 You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/).
 
 ---
 
-## 💾  Check out some of my projects
+## Check out some of my projects
 
 - Minishell: a simple bash-like shell
   (TODO) link here   
@@ -71,7 +71,7 @@ You can find my full professional background, work experience, and education his
 
 ---
 
-## ✉️  Get in Touch
+## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
