@@ -2,9 +2,9 @@
 # Hi, good to have you here!
 -->
 
-<img align="center" src="https://github.com/user-attachments/assets/2dbcbbbe-4d8f-4ee6-81e4-be1f7e117f2f" width="1000" height="300"/><br>   
+<img align="center" src="https://github.com/user-attachments/assets/2dbcbbbe-4d8f-4ee6-81e4-be1f7e117f2f" width="97%" /><br>   
 
-I'm **Maria**, a programming student at [Hive Helsinki](https://www.hive.fi/en/).
+# I'm **Maria**, a programming student at [Hive Helsinki](https://www.hive.fi/en/).
 
 I have a **unique** combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
 
