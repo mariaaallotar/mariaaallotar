@@ -11,7 +11,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 - **Current Studies**:   
   - *Software developement* at [Hive Helsinki](https://www.hive.fi/en/)   
   - Languages and techonogies: *C, C++, Unix, Shell, Git, Web development*   
-  - Focus: *Basics of software engineering, problem-solving, learning to learn, teamwork*   
+  - Focus: *Basics of software development, problem-solving, teamwork, code review, learning to learn*   
   - Education language: English   
 
 - **Academic IT education**:   
