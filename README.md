@@ -4,6 +4,12 @@ I'm **Maria**, a programming student at [Hive Helsinki](https://www.hive.fi/en/)
 
 I have a **unique** combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
 
+
+<details>
+<summary>
+  More about me
+</summary>
+
 ---
 
 ## Education
