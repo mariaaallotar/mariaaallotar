@@ -12,7 +12,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 
 ---
 
-## Education
+## 💡 Education
 
 - **Current Studies**:   
   - *Software developement* at [Hive Helsinki](https://www.hive.fi/en/)   
@@ -31,7 +31,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 
 ---
 
-## IT Knowledge Base
+## 💻  IT Knowledge Base   
 
 Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
@@ -43,13 +43,13 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
 ---
 
-## Experience
+## 🔋  Experience
 
 You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/).
 
 ---
 
-## Check out some of my projects
+## 💾  Check out some of my projects
 
 - Minishell: a simple bash-like shell
   (TODO) link here   
@@ -59,7 +59,7 @@ You can find my full professional background, work experience, and education his
 
 ---
 
-## Get in Touch
+## ✉️  Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
