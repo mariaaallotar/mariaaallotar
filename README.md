@@ -21,7 +21,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
   - Education language: Swedish   
 
 - **Pedagogy degree**:   
-&nbsp;&nbsp;&nbsp;&nbsp;See details on my [LinkedIn profile] (TODO)
+&nbsp;&nbsp;&nbsp;&nbsp;See details on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/)
 
 <!--
   Bachelors degree in *General Pedagogy and Adult Education* at *[University of Helsinki]([https://www.abo.fi/en/study-subject/computer-engineering/](https://www.helsinki.fi/sv/program/pedagogik-kandidatprogram/studier/studieinriktningar/allman-pedagogik-och-vuxenpedagogik))* 
@@ -35,7 +35,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 
 ## Experience
 
-You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME).
+You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/).
 
 ---
 
@@ -64,12 +64,6 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-
----
-
-## 🧩 Fun Fact / Personal Note
-
-> *"[A short personal quote, fun fact, or tech philosophy.]"*
 
 ---
 
