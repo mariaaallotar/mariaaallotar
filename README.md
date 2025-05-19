@@ -20,7 +20,7 @@ I have a *unique* combination of knowledge and competence as a result of a stron
 
 #### Current Studies   
 
-<img align="right" style="position: absolute; z-index: 0;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/HIVE_LOGO_4.jpg" width="200" height="80"/>   
+<img align="right" style="position: absolute; z-index: 0;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/HIVE_LOGO_4.jpg" width="15%"/>   
 
   - *Software developement* at [Hive Helsinki](https://www.hive.fi/en/)   
   - Languages and techonogies: *C, C++, Unix, Shell, Git, Web development*   
@@ -29,7 +29,7 @@ I have a *unique* combination of knowledge and competence as a result of a stron
 
 #### Academic IT education   
 
-<img align="right" style="position: absolute; z-index: 0;" src="https://i0.wp.com/www.eucommeet.eu/wp-content/uploads/2021/04/Abo-Akademi-University.png?w=1080&ssl=1" width="140" height="80"/>   
+<img align="right" style="position: absolute; z-index: 0;" src="https://i0.wp.com/www.eucommeet.eu/wp-content/uploads/2021/04/Abo-Akademi-University.png?w=1080&ssl=1" width="15%"/>   
 
   - 2 years *Computer Engineering* at [Åbo Akademi](https://www.abo.fi/en/study-subject/computer-engineering/)  
   - Languages and technologies: *Python, Java, SQL*   
