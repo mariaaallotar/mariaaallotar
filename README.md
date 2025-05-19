@@ -31,6 +31,7 @@ I have a **unique** combination of knowledge and competence as a result of a str
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaallotar&theme=dark&langs_count=3" />  
 ## 💻  IT Knowledge Base   
 
 Here’s a snapshot of my current skill set and tools I’m comfortable with:
@@ -39,7 +40,7 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 &nbsp;&nbsp;`C` • `C++` • `Java` • `Python` • `SQL`
 
 #### Tools & Frameworks
-&nbsp;&nbsp;`Git` • `Unix`
+&nbsp;&nbsp;`Git` • `Unix` 
 
 ---
 
