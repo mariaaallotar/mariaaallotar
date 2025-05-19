@@ -16,26 +16,12 @@ I have a **unique** combination of knowledge and competence as a result of a str
 
 - **Academic IT education**:   
   - 2 years *Computer Engineering* at [Åbo Akademi](https://www.abo.fi/en/study-subject/computer-engineering/)  
-  - Languages/technologies: *Python, Java, SQL*   
+  - Languages and technologies: *Python, Java, SQL*   
   - Focus: *Theoretical base for IT: algorithms, datastructures, maths, logic, project management*   
   - Education language: Swedish   
 
 - **Pedagogy degree**:   
 &nbsp;&nbsp;&nbsp;&nbsp;See details on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/)
-
-<!--
-  Bachelors degree in *General Pedagogy and Adult Education* at *[University of Helsinki]([https://www.abo.fi/en/study-subject/computer-engineering/](https://www.helsinki.fi/sv/program/pedagogik-kandidatprogram/studier/studieinriktningar/allman-pedagogik-och-vuxenpedagogik))* 
-  Completed: *12/2021*
-  Focus: *Human development, pedagogy in organisations, 
-  Education language: Swedish
--->
-
-
----
-
-## Experience
-
-You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/).
 
 ---
 
@@ -43,11 +29,17 @@ You can find my full professional background, work experience, and education his
 
 Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
-### Languages
+#### Languages
 &nbsp;&nbsp;`C` • `C++` • `Java` • `Python` • `SQL`
 
-### Tools & Frameworks
+#### Tools & Frameworks
 &nbsp;&nbsp;`Git` • `Unix`
+
+---
+
+## Experience
+
+You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/).
 
 ---
 
@@ -67,6 +59,3 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariaaallotar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
