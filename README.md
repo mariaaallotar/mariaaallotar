@@ -63,11 +63,14 @@ You can find my full professional background, work experience, and education his
 
 ## Check out some of my projects
 
-- Minishell: a simple bash-like shell
-  (TODO) link here   
+### [Libft](https://github.com/mariaaallotar/libft): a collection of functions that is used in other projects
+  ![content of libft](https://github.com/user-attachments/assets/309eb497-9865-4bae-b803-a784aa4cf511)
 
-- FDF: renders a transformable wireframe landscape  
-  (TODO) link here   
+### [Fdf](https://github.com/mariaaallotar/fdf): renders a transformable wireframe landscape
+  ![model rendered by fdf](https://github.com/user-attachments/assets/f7defbf3-3476-4d75-8125-3c0054105048)
+
+### [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
+  ![example of minishell usage](https://github.com/user-attachments/assets/323b7f42-9041-4f43-aba7-dd7cb29f3999)
 
 ---
 
