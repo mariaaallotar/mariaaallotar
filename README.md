@@ -1,5 +1,6 @@
 <!--
 # Hi, good to have you here!
+human centered code, writing code and creating products for humans
 -->
 
 <img align="center" src="https://github.com/user-attachments/assets/2dbcbbbe-4d8f-4ee6-81e4-be1f7e117f2f" width="97%" /><br>   
