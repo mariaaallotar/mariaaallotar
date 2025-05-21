@@ -8,12 +8,6 @@
 
 I have a *unique* combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
 
-
-<details>
-<summary>
-  More about me
-</summary>
-
 ---
 
 ## Education
@@ -52,6 +46,11 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
 #### Tools & Frameworks   
 &nbsp;&nbsp;`Git` • `Unix` 
+
+<details>
+<summary>
+  More about me
+</summary>
 
 ---
 
