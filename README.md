@@ -6,7 +6,7 @@ human centered code, writing code and creating products for humans
 <img align="center" src="https://github.com/user-attachments/assets/d04890e1-40d1-4171-a578-59086ce46a84" width="100%" /><br>   
 
 
-# I'm Maria, a programming student at [Hive Helsinki](https://www.hive.fi/en/)
+# I'm Maria, a programming student at [Hive Helsinki](https://www.hive.fi/en/)   
 
 I have a *unique* combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
 
