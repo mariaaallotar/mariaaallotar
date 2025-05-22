@@ -3,7 +3,7 @@
 human centered code, writing code and creating products for humans
 -->
 
-<img align="center" src="https://github.com/user-attachments/assets/d04890e1-40d1-4171-a578-59086ce46a84" width="100%" /><br>   
+<img align="center" src="https://github.com/user-attachments/assets/37b29777-eee5-42e6-b898-19a6f147cd30" width="100%" /><br>   
 
 
 # I'm Maria, a programming student at [Hive Helsinki](https://www.hive.fi/en/)   
