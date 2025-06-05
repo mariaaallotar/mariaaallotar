@@ -77,7 +77,7 @@ You can find my full professional background, work experience, and education his
 
 ## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/maria-helenius)
 
 ---
 
