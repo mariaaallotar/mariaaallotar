@@ -16,7 +16,7 @@ I have a unique combination of knowledge and competence as a result of a strong 
   ![model rendered by fdf](https://github.com/user-attachments/assets/f7defbf3-3476-4d75-8125-3c0054105048)
 
 ### [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
-  ![example of minishell usage](https://github.com/user-attachments/assets/323b7f42-9041-4f43-aba7-dd7cb29f3999)
+  ![example of minishell usage](https://github.com/user-attachments/assets/e1ad35a2-6323-4e28-b94b-1879f9103320)
 
 ---
 
