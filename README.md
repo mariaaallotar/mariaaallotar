@@ -1,14 +1,40 @@
-<!--
-# Hi, good to have you here!
-human centered code, writing code and creating products for humans
--->
 
 <img align="center" src="https://github.com/user-attachments/assets/37b29777-eee5-42e6-b898-19a6f147cd30" width="100%" /><br>   
-
 
 # I'm Maria, a programming student at [Hive Helsinki](https://www.hive.fi/en/)   
 
 I have a *unique* combination of knowledge and competence as a result of a strong *academic base* in pedagogy and computer engineering, *hands-on experience* in coding and problem-solving gained during my current studies, and my interest in psychology and learning.
+
+---
+
+## Check out some of my projects
+
+### [Libft](https://github.com/mariaaallotar/libft): a collection of functions that is used in other projects
+  ![content of libft](https://github.com/user-attachments/assets/309eb497-9865-4bae-b803-a784aa4cf511)
+
+### [Fdf](https://github.com/mariaaallotar/fdf): renders a transformable wireframe landscape
+  ![model rendered by fdf](https://github.com/user-attachments/assets/f7defbf3-3476-4d75-8125-3c0054105048)
+
+### [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
+  ![example of minishell usage](https://github.com/user-attachments/assets/323b7f42-9041-4f43-aba7-dd7cb29f3999)
+
+---
+
+## IT Knowledge Base   
+
+<img align="right" style="position: absolute; z-index: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaallotar&theme=dark&layout=compact&langs_count=8" width="30%" />  
+Here’s a snapshot of my current skill set and tools I’m comfortable with:
+
+#### Languages   
+&nbsp;&nbsp;`C` • `C++` • `Java` • `Python` • `SQL`
+
+#### Tools & Frameworks   
+&nbsp;&nbsp;`Git` • `Unix` 
+
+<details>
+<summary>
+  <h2>More about me</h2>
+</summary>
 
 ---
 
@@ -37,41 +63,9 @@ I have a *unique* combination of knowledge and competence as a result of a stron
 
 ---
 
-
-## IT Knowledge Base   
-
-<img align="right" style="position: absolute; z-index: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaallotar&theme=dark&layout=compact&langs_count=8" width="30%" />  
-Here’s a snapshot of my current skill set and tools I’m comfortable with:
-
-#### Languages   
-&nbsp;&nbsp;`C` • `C++` • `Java` • `Python` • `SQL`
-
-#### Tools & Frameworks   
-&nbsp;&nbsp;`Git` • `Unix` 
-
-<details>
-<summary>
-  More about me
-</summary>
-
----
-
 ## Experience
 
 You can find my full professional background, work experience, and education history on my [LinkedIn profile](https://www.linkedin.com/in/maria-helenius/).
-
----
-
-## Check out some of my projects
-
-### [Libft](https://github.com/mariaaallotar/libft): a collection of functions that is used in other projects
-  ![content of libft](https://github.com/user-attachments/assets/309eb497-9865-4bae-b803-a784aa4cf511)
-
-### [Fdf](https://github.com/mariaaallotar/fdf): renders a transformable wireframe landscape
-  ![model rendered by fdf](https://github.com/user-attachments/assets/f7defbf3-3476-4d75-8125-3c0054105048)
-
-### [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
-  ![example of minishell usage](https://github.com/user-attachments/assets/323b7f42-9041-4f43-aba7-dd7cb29f3999)
 
 ---
 
