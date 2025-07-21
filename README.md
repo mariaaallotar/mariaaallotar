@@ -9,13 +9,13 @@ I have a unique combination of knowledge and competence as a result of a strong 
 
 ## Check out some of my projects
 
-### [Libft](https://github.com/mariaaallotar/libft): a collection of functions that is used in other projects
+## [Libft](https://github.com/mariaaallotar/libft): a collection of functions that is used in other projects
   ![content of libft](https://github.com/user-attachments/assets/309eb497-9865-4bae-b803-a784aa4cf511)
 
-### [Fdf](https://github.com/mariaaallotar/fdf): renders a transformable wireframe landscape
+## [Fdf](https://github.com/mariaaallotar/fdf): renders a transformable wireframe landscape
   ![model rendered by fdf](https://github.com/user-attachments/assets/f7defbf3-3476-4d75-8125-3c0054105048)
 
-### [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
+## [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
   ![example of minishell usage](https://github.com/user-attachments/assets/e1ad35a2-6323-4e28-b94b-1879f9103320)
 
 ---
