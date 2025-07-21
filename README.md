@@ -9,7 +9,7 @@ I have a unique combination of knowledge and competence as a result of a strong 
 
 ## Check out some of my projects
 
-## [Libft](https://github.com/mariaaallotar/libft): a collection of functions that is used in other projects
+## [C-library](https://github.com/mariaaallotar/C-library): a library of rewritten C functions
   ![content of libft](https://github.com/user-attachments/assets/309eb497-9865-4bae-b803-a784aa4cf511)
 
 ## [Fdf](https://github.com/mariaaallotar/fdf): renders a transformable wireframe landscape
