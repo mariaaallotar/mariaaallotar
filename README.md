@@ -22,7 +22,7 @@ I have a unique combination of knowledge and competence as a result of a strong 
 
 ## IT Knowledge Base   
 
-<img align="right" style="position: absolute; z-index: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaallotar&theme=dark&layout=compact&langs_count=8" width="30%" />  
+<img align="right" style="position: absolute; z-index: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaallotar&theme=dark&layout=compact&langs_count=8" width="40%" />  
 Here’s a snapshot of my current skill set and tools I’m comfortable with:
 
 #### Languages   
