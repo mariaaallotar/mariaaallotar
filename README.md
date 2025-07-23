@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/user-attachments/assets/37b29777-eee5-42e6-b898-19a6f147cd30" width="100%" /><br>   
+<img align="center" src="https://github.com/user-attachments/assets/68f7f33f-a221-4b7b-83f7-c7fe3c1f659c" width="100%" /><br>   
 
 # I'm Maria, a programming student at [Hive Helsinki](https://www.hive.fi/en/)   
 
