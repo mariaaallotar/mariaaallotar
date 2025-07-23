@@ -45,7 +45,7 @@ Here’s a snapshot of my current skill set and tools I’m comfortable with:
 <img align="right" style="position: absolute; z-index: 0;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/HIVE_LOGO_4.jpg" width="15%"/>   
 
   - *Software developement* at [Hive Helsinki](https://www.hive.fi/en/)   
-  - Languages and techonogies: *C, C++, Unix, Shell, Git, Web development*   
+  - Languages and technologies: *C, C++, Unix, Shell, Git, Web development*   
   - Focus: *Basics of software development, problem-solving, teamwork, code review, learning to learn*   
   - Education language: English   
 
