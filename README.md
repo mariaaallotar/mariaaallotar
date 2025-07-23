@@ -75,3 +75,34 @@ You can find my full professional background, work experience, and education his
 
 ---
 
+<!---
+Header:
+human-centered / human-centred
+
+CV:
+Projects?
+Projects from ÅA?
+Soft skills (instead of language?)
+typo in computer software engineering
+bit more specificity
+
+Linkedin:
+
+
+Cover letter:
+potential contribution to the company needs to be more concrete. Give examples
+use a memorable anecdote or analogy in the cover letter that will ensure you stick in their memory
+Less AI (threes, m-dashes)
+“say who you are and what you’re good at. She said since they read a lot of them, the more direct you are the better. The meaning in flowery sentences tend to get lost”
+“she said to talk about Hive and how and what we learn there. C/C++ . You can discuss the projects and peer to peer, self directed learning, team work ? Soft skills”
+“Then if you have any personal projects related to the field you’re trying to get into then you can talk about it here. Whatever tech and methods you used”
+“soft skills from previous experience. Whatever pedagogy related soft skills you think are more important”
+
+Github:
+Link projects
+More about me more noticeable
+Cubed animation on profile readme
+Describe libft better
+some consistency (stylistic) for readmes on Git
+typo in "Languages and techonogies:"
+-->
