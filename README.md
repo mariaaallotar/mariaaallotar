@@ -9,16 +9,16 @@ I have a unique combination of knowledge and competence as a result of a strong 
 
 ## Check out some of my projects
 
-## [Irc server](https://github.com/mariaaallotar/irc_server): message in real time, join and operate channels
+### [Irc server](https://github.com/mariaaallotar/irc_server): message in real time, join and operate channels
 <img width="1247" height="509" alt="Screenshot of server running and irssi on channel" src="https://github.com/user-attachments/assets/c251714e-b038-44aa-bce3-c965d44109d4" />
 
-## [Wirefram landscape](https://github.com/mariaaallotar/Wireframe_landscape): renders a transformable wireframe landscape
+### [Wirefram landscape](https://github.com/mariaaallotar/Wireframe_landscape): renders a transformable wireframe landscape
   ![Gif of a rendered wireframe that is rotated in the program](https://github.com/user-attachments/assets/61f31ef4-4468-4103-adf9-5f3222291920)
 
-## [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
+### [Minishell](https://github.com/mariaaallotar/minishell): a simple bash-like shell
   ![example of minishell usage](https://github.com/user-attachments/assets/e1ad35a2-6323-4e28-b94b-1879f9103320)
 
-## [C-library](https://github.com/mariaaallotar/C-library): a library of rewritten C functions
+### [C-library](https://github.com/mariaaallotar/C-library): a library of rewritten C functions
   ![content of libft](https://github.com/user-attachments/assets/309eb497-9865-4bae-b803-a784aa4cf511)
 ---
 
