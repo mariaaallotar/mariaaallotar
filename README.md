@@ -9,7 +9,8 @@ I have a unique combination of knowledge and competence as a result of a strong 
 
 ## Check out some of my projects
 
-## [Irc server](https://github.com/mariaaallotar/irc_server): an irc server
+## [Irc server](https://github.com/mariaaallotar/irc_server): message in real time, join and operate channels
+<img width="1247" height="509" alt="Screenshot of server running and irssi on channel" src="https://github.com/user-attachments/assets/c251714e-b038-44aa-bce3-c965d44109d4" />
 
 ## [Wirefram landscape](https://github.com/mariaaallotar/Wireframe_landscape): renders a transformable wireframe landscape
   ![Gif of a rendered wireframe that is rotated in the program](https://github.com/user-attachments/assets/61f31ef4-4468-4103-adf9-5f3222291920)
